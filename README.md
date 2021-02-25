@@ -12,5 +12,9 @@
 
 {% embed url="https://linkedin.com" %}
 {% endtab %}
+
+{% tab title="Title 3" %}
+{% embed url="https://www.gitbook.com" %}
+{% endtab %}
 {% endtabs %}
 
